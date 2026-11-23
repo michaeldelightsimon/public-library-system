@@ -1,0 +1,3 @@
+# Public Library Management System
+# Run with: python library_system.py
+# Author: Michael Delisle Money - 20223786
